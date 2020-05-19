@@ -1,0 +1,6 @@
+projectKey=WA2
+serverUrl=http://10.19.2.171:9080
+serverVersion=7.9.3.33349
+dashboardUrl=http://10.19.2.171:9080/dashboard?id=WA2
+ceTaskId=AXIn8aVIXCMD-tMQJr7l
+ceTaskUrl=http://10.19.2.171:9080/api/ce/task?id=AXIn8aVIXCMD-tMQJr7l

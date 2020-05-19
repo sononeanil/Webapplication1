@@ -1,0 +1,6 @@
+projectKey=WA1
+serverUrl=http://10.19.2.171:9080
+serverVersion=7.9.3.33349
+dashboardUrl=http://10.19.2.171:9080/dashboard?id=WA1
+ceTaskId=AXHpbSlWwjHB_wKgChpV
+ceTaskUrl=http://10.19.2.171:9080/api/ce/task?id=AXHpbSlWwjHB_wKgChpV
